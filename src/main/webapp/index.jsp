@@ -1,5 +1,5 @@
 <html>
  <body>
-  <h2>Hello World! - version 6 - test du 2021-12-07</h2>
+  <h2>Hello World! - version 7 - test du 2022-08-02</h2>
  </body>
 </html>
